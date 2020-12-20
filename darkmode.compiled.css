@@ -1,0 +1,4 @@
+h1, h2, span {
+  color: #fff;
+  text-shadow: 0 0 0.033em #fff,  0 0 0.08em blue, 0 0 0.1em pink,  0 0 0.2em blue,  0 0 0.3em red,  0 0 1em blue, 0 0 1.5em blue;
+}
